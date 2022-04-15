@@ -202,6 +202,7 @@ const artists = [
 ]
 
 // 🖌🖼 M V P 🖼🖌 //
+//Gretchyn Hickman Sprint Chalange 1
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1 (not auto tested): 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
 Practice accessing data above by console.log-ing following items:
